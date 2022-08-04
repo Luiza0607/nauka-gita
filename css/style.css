@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #fff;
+    color: #3d3d3d;
+    font-size: 10px;
+    font-family: "Raleway", Sans-serif;
+    line-height: 1;
+}
+
+.page-title {
+    color: #fab1a0;
+    font-size: 40px;
+    margin: 48px 0 0 0;
+    font-family: "Playfair Display", sans-serif;
+    padding: 0 40px;
+}
+
+.page-subtitle {
+    font-size: 20px;
+    margin: 48px 0 0 0;
+    padding: 0 40px;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px; 
+}
