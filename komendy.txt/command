@@ -1,0 +1,1 @@
+komenda html-validate: npm exec html-validate *.html
